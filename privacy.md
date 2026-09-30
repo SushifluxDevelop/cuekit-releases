@@ -33,7 +33,7 @@ Wir geben keine Daten weiter, da wir keine erhalten. Alle Daten löschst du, ind
 
 ## Kontakt
 
-Fragen zum Datenschutz: über die [Issues dieses Repositorys](https://github.com/SushiFlux-Develop/cuekit-releases/issues).
+SushiFlux Develop · E-Mail: [mail@sushiflux.de](mailto:mail@sushiflux.de)
 
 ---
 
@@ -66,4 +66,4 @@ We share no data because we receive none. Uninstall CueKit or delete its data fo
 
 ## Contact
 
-Privacy questions: via the [issues of this repository](https://github.com/SushiFlux-Develop/cuekit-releases/issues).
+SushiFlux Develop · Email: [mail@sushiflux.de](mailto:mail@sushiflux.de)
